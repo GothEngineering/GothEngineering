@@ -3,7 +3,7 @@
 ---
 
 * I'm currently learning Python fundamentals after starting in Godot and discovering a passion for problem solving :)
-* Right now I'm building custom Python apps with graphical interface for myself because I changed to Linux and I prefer using my own apps.
+* Right now I'm building custom Python apps with graphical interface to accommodate my workflow after switching to Linux
 * I also like building games in Godot~
 
 ---
