@@ -1,10 +1,12 @@
 ## Hiii. Welcome to my GitHub profile, take a look at all my repos (done with tons of love) ⭐
 
+
 ---
 
 * I'm currently learning Python fundamentals after starting in Godot and discovering a passion for problem solving :)
 * Right now I'm building custom Python apps with graphical interface to accommodate my workflow after switching to Linux
 * I also like building games in Godot~
+* I'm bilingual, so I speak both in Spanish and English!
 
 ---
 
